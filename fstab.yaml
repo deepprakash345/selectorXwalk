@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://679a-130-248-127-34.ngrok-free.app/bin/franklin.delivery/deepprakash345/selectorXwalk/main
+    url: https://4068-130-248-127-34.ngrok-free.app/bin/franklin.delivery/deepprakash345/selectorXwalk/main
     type: "markup"
     suffix: ".html"
