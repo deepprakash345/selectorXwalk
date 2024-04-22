@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://a9b6-103-43-112-97.ngrok-free.app
+    url: https://24f1-103-43-112-97.ngrok-free.app
     type: "markup"
     suffix: ".html"
