@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://applyonlinedev.hdfcbank.com/
+    url: https://a9b6-103-43-112-97.ngrok-free.app
     type: "markup"
-    suffix: ".md.html"
+    suffix: ".html"
