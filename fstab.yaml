@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: https://webhook.site/335ef8d5-cc60-4370-b19f-d411b22802da
     type: "markup"
-    suffix: ".html"
+    suffix: ""
